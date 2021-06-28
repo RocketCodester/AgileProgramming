@@ -1,0 +1,8 @@
+.idea
+lib
+out
+
+APT.iml
+calculatechange.cmd
+sendnewsletter.cmd
+sendstatements.cmd
